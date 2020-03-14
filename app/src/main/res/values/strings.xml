@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Agriculture</string>
+    <string name="water_pump_off">Water pump off</string>
+    <string name="water_pump_on">Water pump On</string>
+</resources>
